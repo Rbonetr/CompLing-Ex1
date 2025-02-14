@@ -3,9 +3,11 @@ EXERCISE 1: Zipf's Law OF ABBREVIATION
 **INTRODUCTION**
 
 **> What is Zipf's Law of abbreviation?**
+
 It’s a linguistic principle which claims that the more frequent a word is, the shorter it tends to be. This occurs with the aim of maximizing efficiency while improving clarity. Some studies show that the principle holds not only for length in letters but also for acoustic duration.
 
 **> What languages will be examined?**
+
 Two sets of data will be analyzed to observe and test this principle. English will be the first, and I have chosen Catalan for the second. I selected it because it’s my mother tongue, and I already know it well, as I studied a Catalan philology degree.
 
 It may also be good for this exercise to compare a synthetic language (English) —which creates words by combining, such as “wheelchair”— and an analytic language (Catalan) —which, instead, creates phrases such as “cadira de rodes”. Even though Catalan has a richer inflectional morphology, this is not as significant, so English should have longer words than Catalan on average. This comparison is particularly interesting when analyzing Zipf's Law of abbreviation, because English is a language that is used much more than Catalan on a daily basis.
@@ -21,8 +23,8 @@ Overall, I expect English words to be shorter on average than Catalan words. Thi
 
 I opted to take documents from the European Union that are available in both English and Catalan. This way, the content of the texts will be very similar, which will help eliminate potential data biases. The data was gathered from EUR-Lex and Portal jurídic de Catalunya.
 
-> Consolidated version of the Treaty establishing the European Atomic Energy Community (2016) – Without annexes.
-> Consolidated version of the Treaty on European Union (2012, ENG – 2016, CAT)
+- Consolidated version of the Treaty establishing the European Atomic Energy Community (2016) – Without annexes.
+- Consolidated version of the Treaty on European Union (2012, ENG – 2016, CAT)
 
 I copied the texts in a .txt document, one for English (Adm_ENG) and one for Catalan (Adm_CAT). At first, I was planning to use SpaCy. However, I had issues downloading en_core_web_sm to my computer (I worked with Visual Studio in Anaconda). After investigating, I think the problem may be due to an incompatibility of some necessary libraries for SpaCy (wheel, thinc) and the newest python versions (I worked with 3.12.4). Since I was not succeeding in solving the issue, I decided to work with NLTK libraries.
 
