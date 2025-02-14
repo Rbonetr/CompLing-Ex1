@@ -1,13 +1,17 @@
 EXERCISE 1: Zipf's Law OF ABBREVIATION	                        
 
 **INTRODUCTION**
+
 **> What is Zipf's Law of abbreviation?**
 It’s a linguistic principle which claims that the more frequent a word is, the shorter it tends to be. This occurs with the aim of maximizing efficiency while improving clarity. Some studies show that the principle holds not only for length in letters but also for acoustic duration.
+
 **> What languages will be examined?**
 Two sets of data will be analyzed to observe and test this principle. English will be the first, and I have chosen Catalan for the second. I selected it because it’s my mother tongue, and I already know it well, as I studied a Catalan philology degree.
 It may also be good for this exercise to compare a synthetic language (English) —which creates words by combining, such as “wheelchair”— and an analytic language (Catalan) —which, instead, creates phrases such as “cadira de rodes”. Even though Catalan has a richer inflectional morphology, this is not as significant, so English should have longer words than Catalan on average. This comparison is particularly interesting when analyzing Zipf's Law of abbreviation, because English is a language that is used much more than Catalan on a daily basis.
+
 **> What genre will you test and why?**
 Administrative documents. I think it’s interesting to see if Zipf's Law of abbreviation holds in contexts where the speakers pay attention to their language and try to be formal. We will see how well this law applies in a context that is often described as wordy.
+
 **> Expectations:**
 My expectations are that there will be a tendency for the most used words to be short. I also think that, because of the administrative language, some longer words will appear more often.
 Overall, I expect English words to be shorter on average than Catalan words. This is counterintuitive given that English is a synthetic language and Catalan is an analytic one. However, this may hold because of English being more used and having more second-language learners.
